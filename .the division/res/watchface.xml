@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <watchface device_name="Gear S3, Gear Sport, Galaxy Watch, Galaxy Watch Active" height="360" name="watchface.xml" schema_version="1.5" screen_type="1" version="2.0.1" width="360">
-    <root height="360" type="normal" width="360" x="0" y="0"/>
+    <root height="360" type="normal" width="360" x="0" y="0">
+        <image height="360" id="Image bg" name="bg.png" width="360" x="0" y="0"/>
+        <image height="360" id="Image abg" name="abg.png" width="360" x="-27" y="0"/>
+        <digitalclock alignment="16777216" b="255" bitmap_font="false" custom_font="true" default_locale="en_US" font_name="Bender Thin" g="255" height="70" id="Digitalclock 1" locale="en_US" r="255" size="40" style="0" text="HH : mm : ss" width="220" x="70" y="264"/>
+    </root>
 </watchface>
