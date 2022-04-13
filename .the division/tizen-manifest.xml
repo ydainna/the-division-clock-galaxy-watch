@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><manifest xmlns="http://tizen.org/ns/packages" api-version="5.0.0.0" package="com.watchface.thedivision" version="1.0.0">
+    <watch-application appid="com.watchface.thedivision" exec="com.watchface.thedivision">
+        <metadata key="http://developer.samsung.com/tizen/metadata/watchface" value="true"/>
+        <icon>the division.png</icon>
+        <label>the division</label>
+    </watch-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.shape.circle">true</feature>
+    <feature name="http://tizen.org/feature/screen.size.normal.360.360">true</feature>
+</manifest>
