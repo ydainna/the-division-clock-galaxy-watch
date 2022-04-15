@@ -2,7 +2,408 @@
 <watchface device_name="Gear S3, Gear Sport, Galaxy Watch, Galaxy Watch Active" height="360" name="watchface.xml" schema_version="1.5" screen_type="1" version="2.0.1" width="360">
     <root height="360" type="normal" width="360" x="0" y="0">
         <image height="360" id="Image bg" name="bg.png" width="360" x="0" y="0"/>
-        <image height="360" id="Image abg" name="abg.png" width="360" x="-27" y="0"/>
-        <digitalclock alignment="16777216" b="255" bitmap_font="false" custom_font="true" default_locale="en_US" font_name="Bender Thin" g="255" height="70" id="Digitalclock 1" locale="en_US" r="255" size="40" style="0" text="HH : mm : ss" width="220" x="70" y="264"/>
+        <animation height="360" id="Animation " repeat="-1" width="360" x="-21" y="0">
+            <image height="360" id="Frame 80" name="frame79delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="80" start="79"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 79" name="frame78delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="79" start="78"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 78" name="frame77delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="78" start="77"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 77" name="frame76delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="77" start="76"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 76" name="frame75delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="76" start="75"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 75" name="frame74delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="75" start="74"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 74" name="frame73delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="74" start="73"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 73" name="frame72delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="73" start="72"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 72" name="frame71delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="72" start="71"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 71" name="frame70delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="71" start="70"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 70" name="frame69delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="70" start="69"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 69" name="frame68delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="69" start="68"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 68" name="frame67delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="68" start="67"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 67" name="frame66delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="67" start="66"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 66" name="frame65delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="66" start="65"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 65" name="frame64delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="65" start="64"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 64" name="frame63delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="64" start="63"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 63" name="frame62delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="63" start="62"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 62" name="frame61delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="62" start="61"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 61" name="frame60delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="61" start="60"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 60" name="frame59delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="60" start="59"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 59" name="frame58delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="59" start="58"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 58" name="frame57delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="58" start="57"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 57" name="frame56delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="57" start="56"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 56" name="frame55delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="56" start="55"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 55" name="frame54delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="55" start="54"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 54" name="frame53delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="54" start="53"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 53" name="frame52delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="53" start="52"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 52" name="frame51delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="52" start="51"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 51" name="frame50delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="51" start="50"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 50" name="frame49delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="50" start="49"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 49" name="frame48delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="49" start="48"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 48" name="frame47delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="48" start="47"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 47" name="frame46delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="47" start="46"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 46" name="frame45delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="46" start="45"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 45" name="frame44delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="45" start="44"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 44" name="frame43delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="44" start="43"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 43" name="frame42delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="43" start="42"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 42" name="frame41delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="42" start="41"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 41" name="frame40delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="41" start="40"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 40" name="frame39delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="40" start="39"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 39" name="frame38delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="39" start="38"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 38" name="frame37delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="38" start="37"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 37" name="frame36delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="37" start="36"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 36" name="frame35delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="36" start="35"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 35" name="frame34delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="35" start="34"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 34" name="frame33delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="34" start="33"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 33" name="frame32delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="33" start="32"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 32" name="frame31delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="32" start="31"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 31" name="frame30delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="31" start="30"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 30" name="frame29delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="30" start="29"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 29" name="frame28delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="29" start="28"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 28" name="frame27delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="28" start="27"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 27" name="frame26delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="27" start="26"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 26" name="frame25delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="26" start="25"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 25" name="frame24delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="25" start="24"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 24" name="frame23delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="24" start="23"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 23" name="frame22delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="23" start="22"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 22" name="frame21delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="22" start="21"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 21" name="frame20delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="21" start="20"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 20" name="frame19delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="20" start="19"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 19" name="frame18delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="19" start="18"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 18" name="frame17delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="18" start="17"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 17" name="frame16delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="17" start="16"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 16" name="frame15delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="16" start="15"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 15" name="frame14delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="15" start="14"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 14" name="frame13delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="14" start="13"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 13" name="frame12delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="13" start="12"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 12" name="frame11delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="12" start="11"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 11" name="frame10delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="11" start="10"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 10" name="frame09delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="10" start="9"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 9" name="frame08delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="9" start="8"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 8" name="frame07delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="8" start="7"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 7" name="frame06delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="7" start="6"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 6" name="frame05delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="6" start="5"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 5" name="frame04delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="5" start="4"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 4" name="frame03delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="4" start="3"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 3" name="frame02delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="3" start="2"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 2" name="frame01delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="2" start="1"/>
+                </condition>
+            </image>
+            <image height="360" id="Frame 1" name="frame00delay005s.png" width="360" x="0" y="0">
+                <condition source="timeline">
+                    <section end="1" start="0"/>
+                </condition>
+            </image>
+        </animation>
+        <digitalclock alignment="16777216" b="255" bitmap_font="false" custom_font="true" default_locale="en_US" font_name="Bender Thin" g="255" height="70" id="Digitalclock 1(1)" locale="en_US" r="255" size="40" style="0" text="HH : mm : ss" width="220" x="70" y="264"/>
     </root>
 </watchface>
