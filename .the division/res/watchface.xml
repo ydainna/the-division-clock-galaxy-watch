@@ -404,6 +404,6 @@
                 </condition>
             </image>
         </animation>
-        <digitalclock alignment="16777216" b="255" bitmap_font="false" custom_font="true" default_locale="en_US" font_name="Bender Thin" g="255" height="70" id="Digitalclock 1(1)" locale="en_US" r="255" size="40" style="0" text="HH : mm : ss" width="220" x="70" y="264"/>
+        <digitalclock alignment="16777216" b="195" bitmap_font="false" custom_font="true" default_locale="en_US" font_name="Bender Thin" g="195" height="70" id="Digitalclock 1(1)" locale="en_US" r="195" size="40" style="0" text="HH : mm : ss" width="220" x="70" y="262"/>
     </root>
 </watchface>
